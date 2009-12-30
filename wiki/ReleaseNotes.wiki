@@ -1,2 +1,5 @@
-Version 1.0:
+Version 1.0.1:
+ - Added: Google DNS, Chrome Extensions, Latitude
+
+Version 1.0.0:
  - Initial Release
