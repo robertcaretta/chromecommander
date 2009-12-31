@@ -1,10 +1,9 @@
 Version 1.0.2:
-
-- Added: Web Site Optimizer, Ad Manager, Friend Connect, Merchants
-<br>- Notes: Will be evaluating current feedback for enhancements.
+<br/>- Added: Web Site Optimizer, Ad Manager, Friend Connect, Merchants
+<br/>- Notes: Will be evaluating current feedback for enhancements.
 
 Version 1.0.1:
-- Added: Google DNS, Chrome Extensions, Latitude
+<br/>- Added: Google DNS, Chrome Extensions, Latitude
 
 Version 1.0.0:
-- Initial Release
+<br/>- Initial Release
