@@ -1,6 +1,5 @@
 Version 1.0.2:
- - Added: Web Site Optimizer, Ad Manager, Friend Connect, Merchants
- 
+- Added: Web Site Optimizer, Ad Manager, Friend Connect, Merchants
 - Notes: Will be evaluating current feedback for enhancements.
 
 Version 1.0.1:
