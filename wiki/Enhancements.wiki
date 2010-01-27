@@ -1,9 +1,9 @@
 <b>Ideas for Improvement:</b>
  - Editing category titles
- <br>- Enable/disable links (Toggling)
+ <br/>- Enable/disable links (Toggling)
 
 <b>Thoughts</b>
-My research into these requests led me to this demo. http://www.jstree.com/demo  I envision that the information would initially be stored in a xml file. Then all items committed to local storage memory. The jstree would be used to enable/disable links in local storage. 
+<br/>My research into these requests led me to this demo. http://www.jstree.com/demo  I envision that the information would initially be stored in a xml file. Then all items committed to local storage memory. The jstree would be used to enable/disable links in local storage. 
 
 Further development would be needed on the pop-up screen to loop over the xml file and check against the visibility status in local storage. 
 
