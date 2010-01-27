@@ -1,4 +1,4 @@
-** Enhancements Page Created: http://code.google.com/p/chromecommander/wiki/Enhancements 
+!!Enhancements Page Created: http://code.google.com/p/chromecommander/wiki/Enhancements 
 
 Version 1.0.2:
 <br/>  - Added: Web Site Optimizer, Ad Manager, Friend Connect, Merchants
