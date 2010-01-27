@@ -6,6 +6,8 @@ My research into these requests led me to this demo. http://www.jstree.com/demo 
 
 Further development would be needed on the pop-up screen to loop over the xml file and check against the visibility status in local storage. 
 
-Comments on potential implementation are welcome.
+Not quite sure how minor revisions to xml file would work though. If the local storage is tied to a specific xml ID/node there may be synching issues with local storage. May need to create unique non-reusable identifiers for each link.
+
+Comments/ideas on potential implementation are welcome.
 
 -Rob
