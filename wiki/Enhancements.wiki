@@ -1,5 +1,5 @@
 Ideas for improvement:
- <br>- Editing category titles
+ - Editing category titles
  <br>- Toggle selection of links
 
 My research into these requests led me to this demo. http://www.jstree.com/demo  I envision that the information would initially be stored in a xml file. Then all items committed to local storage memory. The jstree would be used to enable/disable links in local storage. 
