@@ -1,3 +1,6 @@
+<b>Mac Debugging</b>
+Sorry, I do not have access to a mac with OSX 10.5. Can anyone assist with testing?
+
 <b>Ideas for Improvement:</b>
  - Editing category titles
  <br/>- Enable/disable links (Toggling)
