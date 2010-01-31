@@ -1,5 +1,5 @@
 Version 1.0.3
-<br/>  - Adjusted code on manifest.json file to have relative path. This should hopefully fix the installation deficiencies of Macs and Linux using absolute paths.
+<br/>  - Adjusted code on manifest.json file to have relative paths. This should hopefully fix the installation deficiencies of Macs and Linux using absolute paths.
 
 !! Enhancement Requests Page Created: http://code.google.com/p/chromecommander/wiki/Enhancements 
 
