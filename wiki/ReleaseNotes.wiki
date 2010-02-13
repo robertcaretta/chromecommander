@@ -1,3 +1,7 @@
+Version 1.0.4
+<br/>  - Added: Buzz, Contacts, Squared
+<br/>  - Notes: Enhanced the CSS UI for the menus.
+
 Version 1.0.3
 <br/>  - Adjusted code on manifest.json file to have relative paths. This should hopefully fix the installation deficiencies of Macs and Linux using absolute paths.
 
