@@ -1,3 +1,6 @@
+Version 1.0.5
+<br/>  - Added: Places, goog.gl, Realtime, Panoramio, Picnik
+
 Version 1.0.4
 <br/>  - Added: Buzz, Contacts, Squared
 <br/>  - Notes: Enhanced the CSS UI for the menus.
