@@ -1,3 +1,6 @@
+Version 1.0.7
+<br/>  - Added: App Inventor, Body Browser, Books Ngram Viewer, Earth Engine, Shared Spaces, Chrome Web Store
+
 Version 1.0.6
 <br/>  - Fixed: goo.gl address
 
