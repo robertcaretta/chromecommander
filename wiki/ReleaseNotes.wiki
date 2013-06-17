@@ -1,3 +1,9 @@
+Version 1.0.9
+<br/>  - Added: Tons of new links. Too many too list. :)
+--------------------------------------
+Version 1.0.8
+<br/>  - Added: new manifest definition
+--------------------------------------
 Version 1.0.7
 <br/>  - Added: App Inventor, Body Browser, Books Ngram Viewer, Earth Engine, Shared Spaces, Chrome Web Store
 --------------------------------------
