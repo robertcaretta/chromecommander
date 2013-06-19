@@ -1,5 +1,5 @@
-Version 1.1.1
-<br/>  - Added: Tons of new links. Too many too list. :)
+Version 1.1.9
+<br/>  - Added: Tons of new links. Too many too list. Upgraded code to coincide with manifest 2.0 specs. 
 --------------------------------------
 Version 1.0.8
 <br/>  - Added: new manifest definition
