@@ -1,0 +1,49 @@
+Version 1.1.9
+<br />  - Added: Tons of new links. Too many too list. Upgraded code to coincide with manifest 2.0 specs.
+
+---
+
+Version 1.0.8
+<br />  - Added: new manifest definition
+
+---
+
+Version 1.0.7
+<br />  - Added: App Inventor, Body Browser, Books Ngram Viewer, Earth Engine, Shared Spaces, Chrome Web Store
+
+---
+
+Version 1.0.6
+<br />  - Fixed: goo.gl address
+
+---
+
+Version 1.0.5
+<br />  - Added: Places, goog.gl, Realtime, Panoramio, Picnik
+
+---
+
+Version 1.0.4
+<br />  - Added: Buzz, Contacts, Squared
+<br />  - Notes: Enhanced the CSS UI for the menus.
+
+---
+
+Version 1.0.3
+<br />  - Adjusted code on manifest.json file to have relative paths. This should hopefully fix the installation deficiencies of Macs and Linux using absolute paths.
+
+!! Enhancement Requests Page Created: http://code.google.com/p/chromecommander/wiki/Enhancements
+
+---
+
+Version 1.0.2:
+<br />  - Added: Web Site Optimizer, Ad Manager, Friend Connect, Merchants
+<br />  - Notes: Will be evaluating current feedback for enhancements.
+
+---
+
+Version 1.0.1:
+<br />  - Added: Google DNS, Chrome Extensions, Latitude
+
+Version 1.0.0:
+<br />  - Initial Release

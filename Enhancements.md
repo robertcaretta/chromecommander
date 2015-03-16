@@ -1,0 +1,17 @@
+<b>Mac Debugging</b>
+<br />Sorry, I do not have access to a mac with OSX 10.5. Can anyone assist with testing?
+
+<b>Ideas for Improvement:</b>
+> - Editing category titles
+> <br />- Enable/disable links (Toggling)
+
+<b>Thoughts</b>
+<br />My research into these requests led me to this demo. http://www.jstree.com/demo  I envision that the information would initially be stored in a xml file. Then all items committed to local storage memory. The jstree would be used to enable/disable links in local storage.
+
+Further development would be needed on the pop-up screen to loop over the xml file and check against the visibility status in local storage.
+
+Not quite sure how minor revisions to xml file would work though. If the local storage is tied to a specific xml ID/node there may be synching issues when new xml is released. May need to create unique non-reusable identifiers for each link.
+
+Comments/ideas on potential implementation are welcome.
+
+-Rob

@@ -1,0 +1,1 @@
+Chrome Commander launches all of Google's search, office, services, software & resources. (shortcuts / bookmarks / favorites)
